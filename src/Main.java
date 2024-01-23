@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Main {
+public class Main { 
     static final int BOARDX = 7;
     static final int BOARDY = 15;
     public static void main(String[] args) {
